@@ -1,6 +1,5 @@
-import { useState,useContext } from "react";
+import { useContext } from "react";
 import { UserContext} from '../context/Global-context'
-import { GlobalContext, Reducer } from '../context/Global-context'
 
 
 export const Counter = () => {
